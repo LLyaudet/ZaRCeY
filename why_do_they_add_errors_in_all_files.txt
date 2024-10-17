@@ -1,0 +1,10 @@
+Je viens de commiter des corrections sur les fichiers.
+Ils ont très astucieusement ajouté des espaces
+en fin de ligne après <body>
+dans tous les fichiers sauf ceux avec une erreur de redirection
+/Authors/index.html et /Auteurs/index.html
+Ce qui fait qu'en corrigeant mécaniquement les erreurs qu'ils ajoutent
+je me retrouve avec tous mes fichiers redatés au 17 octobre
+et non au 6 octobre.
+Tôt ou tard, je les explose, ces violeurs de vie privée,
+d'appartement, de voiture, d'ordinateur.
